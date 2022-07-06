@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Poppins:wght@100;200&family=Sarala&display=swap');
+body{
+  background: linear-gradient(45deg, #009abe, #00beba);
+  background-repeat: no-repeat;
+  font-family: 'Comfortaa', cursive;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Poppins", sans-serif;
+
+}
+.card{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.container{
+  max-width: 450px;
+  min-height: 40vh;
+  padding: 2rem;
+}
+button{
+  border: 1px solid #009abe;
+  background: white;
+  border-radius: 5px;
+}
